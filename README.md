@@ -1,5 +1,5 @@
 # Uncertainty-Guided Spatial Pruning Architecture for Efficient Frame Interpolation
-This is the official implementation of the paper [Uncertainty-Guided Spatial Pruning Architecture for Efficient Frame Interpolation]([arxiv.org/pdf/2307.16555](https://arxiv.org/pdf/2307.16555)), ACM MM 2023.
+This is the official implementation of the paper [Uncertainty-Guided Spatial Pruning Architecture for Efficient Frame Interpolation](https://arxiv.org/pdf/2307.16555), ACM MM 2023.
 
 ## Setup
 
