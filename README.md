@@ -3,7 +3,7 @@ This is the official implementation of the paper [Uncertainty-Guided Spatial Pru
 
 ## Setup
 
-* Clone this repository and navigate to Eigen-UGSP_Models folder
+* Clone this repository and navigate to UGSP_Models folder
 
 ```
 git clone https://github.com/Orange066/UGSP_Models.git
