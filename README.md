@@ -26,7 +26,7 @@ conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit
 * Install Python Packages: 
 
 ```
-pip install opencv-python imageio scikit-image tensorboard
+pip install -r requirements.txt
 ```
 
 ## Download the Datasets 
